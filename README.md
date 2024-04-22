@@ -4,7 +4,7 @@ O microserviço <b>Global.ProductManagement</b> realiza o controle das informaç
 
 Passo a Passo
 
-1. Execute o <b>docker-compose</b> na raiz deste repositório para que o banco <b>Sql Server</b>, <b>Redis></b> e <b>Kafka</b> seja criado
+1. Execute o <b>docker-compose</b> na raiz deste repositório para que o banco <b>Sql Server</b>, <b>Redis</b> e <b>Kafka</b> seja criado
 
 2. Execute o projeto com o seguinte comando <b>dotnet Global.ProductManagement.Api.dll</b>
 
