@@ -6,7 +6,7 @@ Passo a Passo
 
 1. Execute o <b>docker-compose</b> na raiz deste repositório para que o banco <b>Sql Server</b>, o cache <b>Redis</b> e o broker <b>Kafka</b> sejam criados. 
 
-2. Execute o projeto com o seguinte comando <b>dotnet Global.ProductManagement.Api.dll</b> ou se preferir acesse a solução pelo <b>Visual Studio</b> e utilize o modo debug
+2. Execute o projeto com o seguinte comando <b>dotnet Global.ProductManagement.Api.dll</b> ou se preferir acesse a solução pelo <b>Visual Studio</b>.
 
 3. Acesse o endpoint da documentação da api em seu navegador https://localhost:7084/swagger
 
