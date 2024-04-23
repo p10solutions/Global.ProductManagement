@@ -2,7 +2,7 @@
 É um microserviço que lida com o dominio de Produtos, utilizando uma Web API .NET 8. </br>
 O Microserviço <b>Global.ProductManagement</b> realiza o controle das informações referentes aos produtos utilizando o <b>Redis</b> como Cache, o <b>Kafka</b> para o processo de mensageria e o Banco de dados <b>SQL Server</b> para persistência dos dados.
 
-Passo a Passo
+Passo a Passo:
 
 1. Execute o <b>docker-compose</b> na raiz deste repositório para que o banco <b>Sql Server</b>, o cache <b>Redis</b> e o broker <b>Kafka</b> sejam criados. 
 
